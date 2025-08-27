@@ -9,7 +9,7 @@ Proporciona una interfaz web para que los usuarios puedan subir imágenes y visu
 - [Angular 20](https://angular.dev/) + Angular CLI
 - TypeScript
 - RxJS
-- SCSS
+- CSS
 - Comunicación con API REST (FastAPI backend en Docker)
 
 ---
